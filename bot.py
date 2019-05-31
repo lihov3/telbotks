@@ -1,6 +1,5 @@
 import telebot
 import time
-from telebot import types
 import random
 places = []
 
