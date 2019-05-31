@@ -1,0 +1,4 @@
+telebot.py
+aiohttp
+websockets
+chardet
